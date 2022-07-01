@@ -5,7 +5,7 @@
  * followed by a new line
  * Return: Always 0 (Success)
  */
-intr main(void)
+int main(void)
 {
 	int ch;
 
